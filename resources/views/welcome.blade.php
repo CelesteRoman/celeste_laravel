@@ -1,4 +1,4 @@
-<!doctype html>
+<!--<!doctype html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -7,12 +7,12 @@
 </head>
 <body>
   <h1 class="text-3xl font-bold underline">
-    Hello world!
+    Hello, world!
   </h1>
 </body>
-</html> 
+</html>  -->
 
-<!--<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
@@ -24,4 +24,4 @@
     <body>
         <div id="codeareact"></div>
     </body>
-</html> -->
+</html>
